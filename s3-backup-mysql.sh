@@ -10,8 +10,8 @@ echo -e "              |______________________________|"
 echo -e " "
 
 # Basic variables
-mysqlpass="SavMySql*US"
-bucket="s3://db-web-backup"
+mysqlpass="mypassmysql"
+bucket="s3://buckets3"
 
 # Timestamp (sortable AND readable)
 stamp=`date +"%s - %A %d %B %Y @ %H%M"`
