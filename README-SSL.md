@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cert-monitor
 Monitor SSL certificate, push nortification to telegram
 
@@ -17,3 +18,7 @@ Chat with BotFather
 Set cronjob to execute check_ssl.sh
 
 Eg: 0 9 * * * /bin/bash /path/to/file/check_ssl.sh
+=======
+# scripts
+Store scripts for system
+>>>>>>> a466eaca71bff4e1a540a94217f98ea1ecc7e38a
